@@ -61,6 +61,18 @@ With proper attribution to the original author.
 
 If you use this work, please cite:
 
+cff-version: 1.2.0
+title: "DSWF Field Climate Interaction"
+message: "If you use this work, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: "Lalgi"
+    given-names: "Dineshkumar"
+title: "DSWF Field Climate Interaction"
+version: "1.0"
+doi: "10.5281/zenodo.19067761"
+date-released: 2026
+license: "CC-BY-4.0"
 
 # DSWF-Field-Climate-Interaction-
 The Dilaso Spiral Wave Force (DSWF) is proposed as a weak nonlinear wave field that introduces a secondary layer of interaction within the Earth’s atmospheric system. Unlike conventional forces such as gravity or electromagnetism, DSWF does not directly generate large-scale observable effects or net electric charge. Instead, it operates subtly.
