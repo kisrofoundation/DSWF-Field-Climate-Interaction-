@@ -39,7 +39,7 @@ A unified interpretation termed **Beyond Gravity** is proposed, where gravitatio
 ## 👨‍🔬 Author
 **Dineshkumar Lalgi**  
 Independent Researcher  
-📧 Contact: (Add your email here)  
+📧 Contact: kisrofoundation@gmail.com
 🌍 Location: India  
 
 ---
